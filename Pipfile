@@ -20,4 +20,4 @@ sklearn = "*"
 xgboost = "*"
 requests = "*"
 shap = "*"
-
+statsmodels = "*"
